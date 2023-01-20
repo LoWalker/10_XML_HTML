@@ -1,0 +1,58 @@
+<!-- [14:02] Peter Schmidt -->
+<firma>
+    <abteilung name="Buchhaltung">
+        <ma name="Lehmann"></ma>
+    </abteilung>
+    <abteilung name="Produktion">
+        <ma name="Breitner"></ma>
+        <ma name="Paul"></ma>
+        <ma name="Degen"></ma>
+    </abteilung>
+    <abteilung name="Vertrieb">
+        <ma name="Schulz"></ma>
+        <ma name="Meier"></ma>
+    </abteilung>
+</firma>
+
+<!-- [14:02] Martin Schwerdtner -->
+<firma>
+        <Abteilungen>
+                <buchhaltung>
+                        <mitarbeiter>
+                                <Lehmann></Lehmann>
+                        </mitarbeiter>
+                </buchhaltung>
+                <produktion>
+                        <mitarbeiter>
+                                <Breitner></Breitner>
+                                <Paul></Paul>
+                                <Degen></Degen>
+                        </mitarbeiter>
+                </produktion>
+                <Vertrieb>
+                        <mitarbeiter>
+                                <Schulz></Schulz>
+                                <Meier></Meier>
+                        </mitarbeiter>
+                </Vertrieb>
+        </Abteilungen>
+</firma>
+
+<!-- [12:54] Patrick Bjick -->
+<Firma>
+    <Buchhaltung>
+        <Lehmann></Lehmann>
+    </Buchhaltung>
+    <Producktion>
+        <Breitner></Breitner>
+        <Paul></Paul>
+        <Degen></Degen>
+    </Producktion>
+    <Vertrieb>
+        <Schulz></Schulz>
+        <Meier></Meier>
+    </Vertrieb>
+</Firma>
+ like 1
+
+
